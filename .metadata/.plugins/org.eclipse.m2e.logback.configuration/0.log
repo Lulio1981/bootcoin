@@ -1,0 +1,338 @@
+2022-05-05 12:31:33,337 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-05-05 12:37:10,229 [Worker-2: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bootcamp:bootcoin:0.0.1-SNAPSHOT @ C:\Bootcamp\Semana5\bootcoin\bootcoin\pom.xml.
+2022-05-05 12:37:12,511 [Worker-2: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bootcoin/src/main/java
+2022-05-05 12:37:12,511 [Worker-2: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bootcoin/src/main/resources
+2022-05-05 12:37:12,519 [Worker-2: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bootcoin/src/main/resources
+2022-05-05 12:37:12,527 [Worker-2: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bootcoin/src/test/java
+2022-05-05 12:37:14,087 [Worker-2: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2022-05-05 12:37:14,091 [Worker-2: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-05-05 12:37:14,248 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/2.6.7/spring-boot-starter-2.6.7-sources.jar
+2022-05-05 12:37:14,412 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/2.6.7/spring-boot-starter-2.6.7-sources.jar
+2022-05-05 12:37:14,430 [Worker-12: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter:2.6.7
+2022-05-05 12:37:14,536 [Worker-2: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bootcamp:bootcoin:0.0.1-SNAPSHOT @ C:\Bootcamp\Semana5\bootcoin\bootcoin\pom.xml.
+2022-05-05 12:37:15,165 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/2.6.7/spring-boot-2.6.7-sources.jar
+2022-05-05 12:37:15,588 [Worker-2: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bootcoin/src/main/java
+2022-05-05 12:37:15,589 [Worker-2: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bootcoin/src/main/resources
+2022-05-05 12:37:15,590 [Worker-2: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bootcoin/src/main/resources
+2022-05-05 12:37:15,592 [Worker-2: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bootcoin/src/test/java
+2022-05-05 12:37:16,050 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/2.6.7/spring-boot-2.6.7-sources.jar
+2022-05-05 12:37:16,086 [Worker-12: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot:2.6.7
+2022-05-05 12:37:16,808 [Worker-2: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2022-05-05 12:37:17,183 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.3.19/spring-context-5.3.19-sources.jar
+2022-05-05 12:37:17,787 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.3.19/spring-context-5.3.19-sources.jar
+2022-05-05 12:37:17,816 [Worker-12: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-context:5.3.19
+2022-05-05 12:37:18,188 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.3.19/spring-aop-5.3.19-sources.jar
+2022-05-05 12:37:18,664 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.3.19/spring-aop-5.3.19-sources.jar
+2022-05-05 12:37:18,729 [Worker-12: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-aop:5.3.19
+2022-05-05 12:37:19,105 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.19/spring-beans-5.3.19-sources.jar
+2022-05-05 12:37:19,234 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-05 12:37:19,235 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-05 12:37:19,247 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-05 12:37:19,280 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-05 12:37:19,284 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-05 12:37:19,285 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-05 12:37:19,285 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Bootcamp\Semana5\bootcoin\bootcoin\src\test\resources
+2022-05-05 12:37:19,566 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.19/spring-beans-5.3.19-sources.jar
+2022-05-05 12:37:19,582 [Worker-12: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-beans:5.3.19
+2022-05-05 12:37:19,928 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.3.19/spring-expression-5.3.19-sources.jar
+2022-05-05 12:37:20,323 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.3.19/spring-expression-5.3.19-sources.jar
+2022-05-05 12:37:20,353 [Worker-12: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-expression:5.3.19
+2022-05-05 12:37:21,036 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/2.6.7/spring-boot-autoconfigure-2.6.7-sources.jar
+2022-05-05 12:37:22,167 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/2.6.7/spring-boot-autoconfigure-2.6.7-sources.jar
+2022-05-05 12:37:22,186 [Worker-12: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-autoconfigure:2.6.7
+2022-05-05 12:37:22,688 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/2.6.7/spring-boot-starter-logging-2.6.7-sources.jar
+2022-05-05 12:37:22,922 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/2.6.7/spring-boot-starter-logging-2.6.7-sources.jar
+2022-05-05 12:37:22,931 [Worker-12: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-logging:2.6.7
+2022-05-05 12:37:23,600 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.19/spring-core-5.3.19-sources.jar
+2022-05-05 12:37:24,772 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.19/spring-core-5.3.19-sources.jar
+2022-05-05 12:37:24,784 [Worker-12: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-core:5.3.19
+2022-05-05 12:37:25,123 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.3.19/spring-jcl-5.3.19-sources.jar
+2022-05-05 12:37:25,298 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.3.19/spring-jcl-5.3.19-sources.jar
+2022-05-05 12:37:25,304 [Worker-12: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-jcl:5.3.19
+2022-05-05 12:37:25,806 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-test/2.6.7/spring-boot-starter-test-2.6.7-sources.jar
+2022-05-05 12:37:26,045 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-test/2.6.7/spring-boot-starter-test-2.6.7-sources.jar
+2022-05-05 12:37:26,058 [Worker-12: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-test:2.6.7
+2022-05-05 12:37:26,726 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test/2.6.7/spring-boot-test-2.6.7-sources.jar
+2022-05-05 12:37:27,283 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test/2.6.7/spring-boot-test-2.6.7-sources.jar
+2022-05-05 12:37:27,291 [Worker-12: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-test:2.6.7
+2022-05-05 12:37:27,634 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test-autoconfigure/2.6.7/spring-boot-test-autoconfigure-2.6.7-sources.jar
+2022-05-05 12:37:27,901 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test-autoconfigure/2.6.7/spring-boot-test-autoconfigure-2.6.7-sources.jar
+2022-05-05 12:37:27,912 [Worker-12: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-test-autoconfigure:2.6.7
+2022-05-05 12:37:28,276 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-test/5.3.19/spring-test-5.3.19-sources.jar
+2022-05-05 12:37:28,764 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-test/5.3.19/spring-test-5.3.19-sources.jar
+2022-05-05 12:37:28,771 [Worker-12: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-test:5.3.19
+2022-05-05 12:37:29,076 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-05 12:37:29,077 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-05 12:37:29,078 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-05 12:37:29,078 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-05 12:37:29,081 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-05 12:37:29,081 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-05 12:37:29,081 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Bootcamp\Semana5\bootcoin\bootcoin\src\test\resources
+2022-05-05 12:37:46,544 [Worker-2: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bootcamp:bootcoin:0.0.1-SNAPSHOT @ C:\Bootcamp\Semana5\bootcoin\bootcoin\pom.xml.
+2022-05-05 12:37:49,113 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bootcamp:bootcoin:0.0.1-SNAPSHOT @ C:\Bootcamp\Semana5\bootcoin\bootcoin\pom.xml.
+2022-05-05 12:37:49,239 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-mongodb-reactive/2.6.7/spring-boot-starter-data-mongodb-reactive-2.6.7-sources.jar
+2022-05-05 12:37:49,424 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-mongodb-reactive/2.6.7/spring-boot-starter-data-mongodb-reactive-2.6.7-sources.jar
+2022-05-05 12:37:49,438 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-data-mongodb-reactive:2.6.7
+2022-05-05 12:37:50,491 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/reactor-core/3.4.17/reactor-core-3.4.17-sources.jar
+2022-05-05 12:37:50,935 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-05 12:37:50,936 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-05 12:37:50,937 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-05 12:37:50,955 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-05 12:37:50,957 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-05 12:37:50,957 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-05 12:37:50,957 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Bootcamp\Semana5\bootcoin\bootcoin\src\test\resources
+2022-05-05 12:37:51,135 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/reactor-core/3.4.17/reactor-core-3.4.17-sources.jar
+2022-05-05 12:37:51,143 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.projectreactor:reactor-core:3.4.17
+2022-05-05 12:37:52,337 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-mongodb/3.3.4/spring-data-mongodb-3.3.4-sources.jar
+2022-05-05 12:37:52,666 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-05 12:37:52,667 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-05 12:37:52,669 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-05 12:37:52,673 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-05 12:37:52,676 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-05 12:37:52,676 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-05 12:37:52,677 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Bootcamp\Semana5\bootcoin\bootcoin\src\test\resources
+2022-05-05 12:37:52,858 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-mongodb/3.3.4/spring-data-mongodb-3.3.4-sources.jar
+2022-05-05 12:37:52,866 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-mongodb:3.3.4
+2022-05-05 12:37:53,228 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/5.3.19/spring-tx-5.3.19-sources.jar
+2022-05-05 12:37:53,646 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/5.3.19/spring-tx-5.3.19-sources.jar
+2022-05-05 12:37:53,654 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-tx:5.3.19
+2022-05-05 12:37:53,981 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-commons/2.6.4/spring-data-commons-2.6.4-sources.jar
+2022-05-05 12:37:54,524 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-commons/2.6.4/spring-data-commons-2.6.4-sources.jar
+2022-05-05 12:37:54,536 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-commons:2.6.4
+2022-05-05 12:37:54,860 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-webflux/2.6.7/spring-boot-starter-webflux-2.6.7-sources.jar
+2022-05-05 12:37:55,022 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-webflux/2.6.7/spring-boot-starter-webflux-2.6.7-sources.jar
+2022-05-05 12:37:55,030 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-webflux:2.6.7
+2022-05-05 12:37:55,387 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-json/2.6.7/spring-boot-starter-json-2.6.7-sources.jar
+2022-05-05 12:37:55,548 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-json/2.6.7/spring-boot-starter-json-2.6.7-sources.jar
+2022-05-05 12:37:55,556 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-json:2.6.7
+2022-05-05 12:37:56,235 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-reactor-netty/2.6.7/spring-boot-starter-reactor-netty-2.6.7-sources.jar
+2022-05-05 12:37:56,557 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-reactor-netty/2.6.7/spring-boot-starter-reactor-netty-2.6.7-sources.jar
+2022-05-05 12:37:56,566 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-reactor-netty:2.6.7
+2022-05-05 12:37:56,932 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-http/1.0.18/reactor-netty-http-1.0.18-sources.jar
+2022-05-05 12:37:57,217 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-http/1.0.18/reactor-netty-http-1.0.18-sources.jar
+2022-05-05 12:37:57,224 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.projectreactor.netty:reactor-netty-http:1.0.18
+2022-05-05 12:37:57,561 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-http/4.1.76.Final/netty-codec-http-4.1.76.Final-sources.jar
+2022-05-05 12:37:58,005 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-http/4.1.76.Final/netty-codec-http-4.1.76.Final-sources.jar
+2022-05-05 12:37:58,011 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec-http:4.1.76.Final
+2022-05-05 12:37:58,344 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.76.Final/netty-common-4.1.76.Final-sources.jar
+2022-05-05 12:37:58,815 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.76.Final/netty-common-4.1.76.Final-sources.jar
+2022-05-05 12:37:58,822 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-common:4.1.76.Final
+2022-05-05 12:37:59,149 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.1.76.Final/netty-buffer-4.1.76.Final-sources.jar
+2022-05-05 12:37:59,561 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.1.76.Final/netty-buffer-4.1.76.Final-sources.jar
+2022-05-05 12:37:59,568 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-buffer:4.1.76.Final
+2022-05-05 12:38:00,262 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.1.76.Final/netty-transport-4.1.76.Final-sources.jar
+2022-05-05 12:38:01,002 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.1.76.Final/netty-transport-4.1.76.Final-sources.jar
+2022-05-05 12:38:01,009 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport:4.1.76.Final
+2022-05-05 12:38:01,340 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.1.76.Final/netty-codec-4.1.76.Final-sources.jar
+2022-05-05 12:38:01,691 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.1.76.Final/netty-codec-4.1.76.Final-sources.jar
+2022-05-05 12:38:01,697 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec:4.1.76.Final
+2022-05-05 12:38:02,325 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.1.76.Final/netty-handler-4.1.76.Final-sources.jar
+2022-05-05 12:38:02,944 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.1.76.Final/netty-handler-4.1.76.Final-sources.jar
+2022-05-05 12:38:02,962 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-handler:4.1.76.Final
+2022-05-05 12:38:03,451 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-http2/4.1.76.Final/netty-codec-http2-4.1.76.Final-sources.jar
+2022-05-05 12:38:04,021 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-http2/4.1.76.Final/netty-codec-http2-4.1.76.Final-sources.jar
+2022-05-05 12:38:04,027 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec-http2:4.1.76.Final
+2022-05-05 12:38:04,555 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns/4.1.76.Final/netty-resolver-dns-4.1.76.Final-sources.jar
+2022-05-05 12:38:04,853 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns/4.1.76.Final/netty-resolver-dns-4.1.76.Final-sources.jar
+2022-05-05 12:38:04,860 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-resolver-dns:4.1.76.Final
+2022-05-05 12:38:05,520 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver/4.1.76.Final/netty-resolver-4.1.76.Final-sources.jar
+2022-05-05 12:38:05,840 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver/4.1.76.Final/netty-resolver-4.1.76.Final-sources.jar
+2022-05-05 12:38:05,847 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-resolver:4.1.76.Final
+2022-05-05 12:38:06,355 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-dns/4.1.76.Final/netty-codec-dns-4.1.76.Final-sources.jar
+2022-05-05 12:38:06,617 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-dns/4.1.76.Final/netty-codec-dns-4.1.76.Final-sources.jar
+2022-05-05 12:38:06,625 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec-dns:4.1.76.Final
+2022-05-05 12:38:06,958 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-native-macos/4.1.76.Final/netty-resolver-dns-native-macos-4.1.76.Final-sources.jar
+2022-05-05 12:38:06,965 [Worker-11: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for io.netty:netty-resolver-dns-native-macos:4.1.76.Final:osx-x86_64
+org.eclipse.core.runtime.CoreException: Could not resolve artifact io.netty:netty-resolver-dns-native-macos:jar:sources:4.1.76.Final
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:828)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:796)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:311)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:285)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:255)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:223)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:152)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:152)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-05-05 12:38:07,288 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-classes-macos/4.1.76.Final/netty-resolver-dns-classes-macos-4.1.76.Final-sources.jar
+2022-05-05 12:38:07,454 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-classes-macos/4.1.76.Final/netty-resolver-dns-classes-macos-4.1.76.Final-sources.jar
+2022-05-05 12:38:07,462 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-resolver-dns-classes-macos:4.1.76.Final
+2022-05-05 12:38:07,956 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.1.76.Final/netty-transport-native-epoll-4.1.76.Final-sources.jar
+2022-05-05 12:38:08,212 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.1.76.Final/netty-transport-native-epoll-4.1.76.Final-sources.jar
+2022-05-05 12:38:08,220 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport-native-epoll:4.1.76.Final:linux-x86_64
+2022-05-05 12:38:08,573 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-unix-common/4.1.76.Final/netty-transport-native-unix-common-4.1.76.Final-sources.jar
+2022-05-05 12:38:08,784 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-unix-common/4.1.76.Final/netty-transport-native-unix-common-4.1.76.Final-sources.jar
+2022-05-05 12:38:08,792 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport-native-unix-common:4.1.76.Final
+2022-05-05 12:38:09,121 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-classes-epoll/4.1.76.Final/netty-transport-classes-epoll-4.1.76.Final-sources.jar
+2022-05-05 12:38:09,344 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-classes-epoll/4.1.76.Final/netty-transport-classes-epoll-4.1.76.Final-sources.jar
+2022-05-05 12:38:09,352 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport-classes-epoll:4.1.76.Final
+2022-05-05 12:38:09,690 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-core/1.0.18/reactor-netty-core-1.0.18-sources.jar
+2022-05-05 12:38:09,972 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-core/1.0.18/reactor-netty-core-1.0.18-sources.jar
+2022-05-05 12:38:09,980 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.projectreactor.netty:reactor-netty-core:1.0.18
+2022-05-05 12:38:10,325 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-handler-proxy/4.1.76.Final/netty-handler-proxy-4.1.76.Final-sources.jar
+2022-05-05 12:38:10,487 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-handler-proxy/4.1.76.Final/netty-handler-proxy-4.1.76.Final-sources.jar
+2022-05-05 12:38:10,494 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-handler-proxy:4.1.76.Final
+2022-05-05 12:38:10,825 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-socks/4.1.76.Final/netty-codec-socks-4.1.76.Final-sources.jar
+2022-05-05 12:38:11,017 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-socks/4.1.76.Final/netty-codec-socks-4.1.76.Final-sources.jar
+2022-05-05 12:38:11,025 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec-socks:4.1.76.Final
+2022-05-05 12:38:11,354 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-web/5.3.19/spring-web-5.3.19-sources.jar
+2022-05-05 12:38:11,864 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-web/5.3.19/spring-web-5.3.19-sources.jar
+2022-05-05 12:38:11,871 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-web:5.3.19
+2022-05-05 12:38:12,213 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-webflux/5.3.19/spring-webflux-5.3.19-sources.jar
+2022-05-05 12:38:12,655 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webflux/5.3.19/spring-webflux-5.3.19-sources.jar
+2022-05-05 12:38:12,661 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-webflux:5.3.19
+2022-05-05 12:38:13,000 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-actuator/2.6.7/spring-boot-starter-actuator-2.6.7-sources.jar
+2022-05-05 12:38:13,184 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-actuator/2.6.7/spring-boot-starter-actuator-2.6.7-sources.jar
+2022-05-05 12:38:13,196 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-actuator:2.6.7
+2022-05-05 12:38:13,553 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-actuator-autoconfigure/2.6.7/spring-boot-actuator-autoconfigure-2.6.7-sources.jar
+2022-05-05 12:38:13,984 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-actuator-autoconfigure/2.6.7/spring-boot-actuator-autoconfigure-2.6.7-sources.jar
+2022-05-05 12:38:13,992 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-actuator-autoconfigure:2.6.7
+2022-05-05 12:38:14,483 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-actuator/2.6.7/spring-boot-actuator-2.6.7-sources.jar
+2022-05-05 12:38:15,022 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-actuator/2.6.7/spring-boot-actuator-2.6.7-sources.jar
+2022-05-05 12:38:15,030 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-actuator:2.6.7
+2022-05-05 12:38:15,365 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/1.8.5/micrometer-core-1.8.5-sources.jar
+2022-05-05 12:38:15,783 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/1.8.5/micrometer-core-1.8.5-sources.jar
+2022-05-05 12:38:15,789 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.micrometer:micrometer-core:1.8.5
+2022-05-05 12:38:15,793 [Worker-11: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.springframework.cloud:spring-cloud-starter-config:3.1.1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-config:jar:sources:3.1.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:828)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:796)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:311)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:285)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:255)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:223)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:152)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:152)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-05-05 12:38:16,165 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/5.6.3/spring-security-crypto-5.6.3-sources.jar
+2022-05-05 12:38:16,370 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/5.6.3/spring-security-crypto-5.6.3-sources.jar
+2022-05-05 12:38:16,377 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-crypto:5.6.3
+2022-05-05 12:38:16,721 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.13.2.1/jackson-databind-2.13.2.1-sources.jar
+2022-05-05 12:38:17,215 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.13.2.1/jackson-databind-2.13.2.1-sources.jar
+2022-05-05 12:38:17,223 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-databind:2.13.2.1
+2022-05-05 12:38:17,607 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/addons/reactor-extra/3.4.8/reactor-extra-3.4.8-sources.jar
+2022-05-05 12:38:17,869 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/addons/reactor-extra/3.4.8/reactor-extra-3.4.8-sources.jar
+2022-05-05 12:38:17,876 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.projectreactor.addons:reactor-extra:3.4.8
+2022-05-05 12:38:18,223 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-cache/2.6.7/spring-boot-starter-cache-2.6.7-sources.jar
+2022-05-05 12:38:18,410 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-cache/2.6.7/spring-boot-starter-cache-2.6.7-sources.jar
+2022-05-05 12:38:18,418 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-cache:2.6.7
+2022-05-05 12:38:18,796 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context-support/5.3.19/spring-context-support-5.3.19-sources.jar
+2022-05-05 12:38:19,067 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context-support/5.3.19/spring-context-support-5.3.19-sources.jar
+2022-05-05 12:38:19,074 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-context-support:5.3.19
+2022-05-05 12:38:19,079 [Worker-11: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.springframework.cloud:spring-cloud-starter-sleuth:3.1.1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-sleuth:jar:sources:3.1.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:828)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:796)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:311)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:285)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:255)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:223)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:152)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:152)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-05-05 12:38:19,536 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-aop/2.6.7/spring-boot-starter-aop-2.6.7-sources.jar
+2022-05-05 12:38:19,710 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-aop/2.6.7/spring-boot-starter-aop-2.6.7-sources.jar
+2022-05-05 12:38:19,720 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-aop:2.6.7
+2022-05-05 12:38:20,207 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.24/lombok-1.18.24-sources.jar
+2022-05-05 12:38:20,989 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.24/lombok-1.18.24-sources.jar
+2022-05-05 12:38:20,995 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.projectlombok:lombok:1.18.24
+2022-05-05 12:38:21,351 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/reactor-test/3.4.17/reactor-test-3.4.17-sources.jar
+2022-05-05 12:38:21,538 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/reactor-test/3.4.17/reactor-test-3.4.17-sources.jar
+2022-05-05 12:38:21,546 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.projectreactor:reactor-test:3.4.17
+2022-05-05 12:38:21,551 [Worker-11: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.webjars:swagger-ui:4.10.3
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.webjars:swagger-ui:jar:sources:4.10.3
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:828)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:796)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:311)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:285)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:255)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:223)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:152)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:152)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-05-05 12:38:21,896 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/modelmapper/modelmapper/3.1.0/modelmapper-3.1.0-sources.jar
+2022-05-05 12:38:22,184 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/modelmapper/modelmapper/3.1.0/modelmapper-3.1.0-sources.jar
+2022-05-05 12:38:22,190 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.modelmapper:modelmapper:3.1.0
+2022-05-05 12:38:22,643 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-05-05 12:38:23,146 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bootcamp:bootcoin:0.0.1-SNAPSHOT @ C:\Bootcamp\Semana5\bootcoin\bootcoin\pom.xml.
+2022-05-05 12:38:24,036 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bootcoin/src/main/java
+2022-05-05 12:38:24,038 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bootcoin/src/main/resources
+2022-05-05 12:38:24,038 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bootcoin/src/main/resources
+2022-05-05 12:38:24,039 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bootcoin/src/test/java
+2022-05-05 12:38:25,455 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-native-macos/4.1.76.Final/netty-resolver-dns-native-macos-4.1.76.Final-javadoc.jar
+2022-05-05 12:38:25,461 [Worker-14: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for io.netty:netty-resolver-dns-native-macos:4.1.76.Final:osx-x86_64
+org.eclipse.core.runtime.CoreException: Could not resolve artifact io.netty:netty-resolver-dns-native-macos:jar:javadoc:4.1.76.Final
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:828)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:796)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:311)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:297)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:255)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:223)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:152)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:152)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-05-05 12:38:25,941 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-config/3.1.1/spring-cloud-starter-config-3.1.1-javadoc.jar
+2022-05-05 12:38:25,946 [Worker-14: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.springframework.cloud:spring-cloud-starter-config:3.1.1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-config:jar:javadoc:3.1.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:828)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:796)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:311)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:297)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:255)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:223)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:152)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:152)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-05-05 12:38:26,291 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-sleuth/3.1.1/spring-cloud-starter-sleuth-3.1.1-javadoc.jar
+2022-05-05 12:38:26,545 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-sleuth/3.1.1/spring-cloud-starter-sleuth-3.1.1-javadoc.jar
+2022-05-05 12:38:26,551 [Worker-14: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.cloud:spring-cloud-starter-sleuth:3.1.1
+2022-05-05 12:38:26,921 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/swagger-ui/4.10.3/swagger-ui-4.10.3-javadoc.jar
+2022-05-05 12:38:27,657 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/swagger-ui/4.10.3/swagger-ui-4.10.3-javadoc.jar
+2022-05-05 12:38:27,663 [Worker-14: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.webjars:swagger-ui:4.10.3
