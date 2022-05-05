@@ -85,9 +85,8 @@ public class TypeChangeServiceImpl implements TypeChangeService {
     }
 
     @Override
-    public Mono<TypeChange> findByCurrencyOrigin(String currencyOrigin) {
-        return repository.findByCurrencyOrigin(currencyOrigin)
-                .switchIfEmpty(Mono.error(new Exception("This currency haven't type change")));
+    public Mono<TypeChange> getByCurrencyOrigin(String currencyOrigin) {
+        return repository.findByCurrencyOrigin(currencyOrigin);
     }
 
 }

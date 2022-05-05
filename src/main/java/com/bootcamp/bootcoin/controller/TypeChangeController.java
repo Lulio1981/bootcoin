@@ -2,8 +2,13 @@ package com.bootcamp.bootcoin.controller;
 
 import com.bootcamp.bootcoin.entity.TypeChange;
 import com.bootcamp.bootcoin.service.TypeChangeService;
+
+import com.netflix.discovery.converters.Auto;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import lombok.RequiredArgsConstructor;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.redis.core.RedisTemplate;
+import org.springframework.data.redis.core.ValueOperations;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
@@ -20,6 +25,9 @@ import java.net.URI;
 public class TypeChangeController {
 
     public final TypeChangeService service;
+
+    @Autowired
+    private RedisTemplate redisTemplate;
 
     @GetMapping
     public Mono<ResponseEntity<Flux<TypeChange>>> getAll() {
@@ -69,5 +77,20 @@ public class TypeChangeController {
                         .contentType(MediaType.APPLICATION_JSON)
                         .body(p))
                 .defaultIfEmpty(ResponseEntity.notFound().build());
+    }
+
+    @GetMapping("currencyOrigin/{currencyOrigin}")
+    public Mono<ResponseEntity<Mono<TypeChange>>> getByCurrencyOrigin(@PathVariable String currencyOrigin) {
+        String key = "type_change" + currencyOrigin;
+        ValueOperations<String, TypeChange> operations = redisTemplate.opsForValue();
+        boolean hasKey = redisTemplate.hasKey(key);
+        TypeChange typeChange = operations.get(key);
+
+
+        return Mono.just(
+                ResponseEntity.ok()
+                        .contentType(MediaType.APPLICATION_JSON)
+                        .body(service.getByCurrencyOrigin(currencyOrigin))
+        );
     }
 }

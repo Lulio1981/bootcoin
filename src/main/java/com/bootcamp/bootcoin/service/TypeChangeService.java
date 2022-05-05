@@ -16,6 +16,6 @@ public interface TypeChangeService {
 
     public Mono<TypeChange> delete(String id);
 
-    Mono<TypeChange> findByCurrencyOrigin(String currencyOrigin);
+    Mono<TypeChange> getByCurrencyOrigin(String currencyOrigin);
 
 }
