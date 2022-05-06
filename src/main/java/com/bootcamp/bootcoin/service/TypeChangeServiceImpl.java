@@ -7,7 +7,9 @@ import com.bootcamp.bootcoin.util.Constant;
 import com.bootcamp.bootcoin.util.handler.exceptions.BadRequestException;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;
 import org.springframework.cache.annotation.Cacheable;
+import org.springframework.data.redis.core.ReactiveHashOperations;
 import org.springframework.stereotype.Service;
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
@@ -15,11 +17,12 @@ import reactor.core.publisher.Mono;
 import java.util.Date;
 
 @Service
-@RequiredArgsConstructor
 public class TypeChangeServiceImpl implements TypeChangeService {
 
     @Autowired
-    public final TypeChangeRepository repository;
+    public  TypeChangeRepository repository;
+
+    private static final String KEY = "typechange";
 
     public Flux<TypeChange> getAll() {
         return repository.findAll();

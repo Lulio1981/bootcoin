@@ -8,10 +8,12 @@ spring:
       username: ${SECURITY_USERNAME:root}
       password: ${SECURITY_PASSWORD:1234}
   redis:
+    profiles: local
     host: 127.0.0.1
     port: 6379
+    database: 0
     password: lulio
-    timeout: 5000
+    timeout: 7000
 
 # Swagger openapi.docs custom path
 springdoc:

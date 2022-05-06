@@ -3,10 +3,8 @@ package com.bootcamp.bootcoin.controller;
 import com.bootcamp.bootcoin.entity.TypeChange;
 import com.bootcamp.bootcoin.service.TypeChangeService;
 
-import com.netflix.discovery.converters.Auto;
 import io.swagger.v3.oas.annotations.tags.Tag;
-import lombok.RequiredArgsConstructor;
-import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;
 import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.data.redis.core.ValueOperations;
 import org.springframework.http.MediaType;
@@ -21,13 +19,20 @@ import java.net.URI;
 @RequestMapping("typeChange")
 @Tag(name = "Type chamge", description = "Manage mainteance of typeChange")
 @CrossOrigin(value = {"*"})
-@RequiredArgsConstructor
 public class TypeChangeController {
 
     public final TypeChangeService service;
 
-    @Autowired
-    private RedisTemplate redisTemplate;
+    private static final String KEY = "typechange";
+    public final RedisTemplate <String, TypeChange> redisTemplate;
+
+    @SuppressWarnings("unchecked")
+    public TypeChangeController(RedisTemplate<?, ?> redisTemplate, TypeChangeService service) {
+        this.redisTemplate = (RedisTemplate<String, TypeChange>) redisTemplate;
+        this.service = service;
+    }
+
+
 
     @GetMapping
     public Mono<ResponseEntity<Flux<TypeChange>>> getAll() {
@@ -81,16 +86,21 @@ public class TypeChangeController {
 
     @GetMapping("currencyOrigin/{currencyOrigin}")
     public Mono<ResponseEntity<Mono<TypeChange>>> getByCurrencyOrigin(@PathVariable String currencyOrigin) {
-        String key = "type_change" + currencyOrigin;
         ValueOperations<String, TypeChange> operations = redisTemplate.opsForValue();
-        boolean hasKey = redisTemplate.hasKey(key);
-        TypeChange typeChange = operations.get(key);
+        boolean hasKey = redisTemplate.hasKey(KEY);
+        TypeChange typeChange = operations.get(KEY);
 
+        if (hasKey) {
+            redisTemplate.delete(KEY);
+        }
+      return Mono.create(monoSink -> monoSink.success(ResponseEntity.ok()
+                .contentType(MediaType.APPLICATION_JSON)
+                .body(service.getByCurrencyOrigin(currencyOrigin))));
 
-        return Mono.just(
+        /*return Mono.just(
                 ResponseEntity.ok()
                         .contentType(MediaType.APPLICATION_JSON)
                         .body(service.getByCurrencyOrigin(currencyOrigin))
-        );
+        );*/
     }
 }
